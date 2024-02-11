@@ -1,7 +1,8 @@
 # ENGS 21
 ## 24W
 ### Solidworks
-Initial Prototype 1 Images:
+Updated Prototype 2 Images:
 ![fullview](imgs/fullview.png)
-![cap](imgs/cap.png)
+![section view](imgs/sectionviewthreads.png)
+![newcapbottom](imgs/newcapbottom.png)
 ![bottlenocap](imgs/bottlenocap.png)
